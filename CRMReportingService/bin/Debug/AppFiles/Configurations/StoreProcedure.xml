@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Function Name="Reporting">
+  <Setting Key="getsettings" SpName="Acc_CRM_SettingSel" DbName="CRM"  />
+  <Setting Key="selCountries" SpName="Acc_CRM_CountrySel" DbName="CRM"  />
+  <Setting Key="dailysummaryreport" SpName="Acc_CRM_Rpt_CustomerStatistics" DbName="CRM"  />
+  <Setting Key="dailydetailreport" SpName="Acc_CRM_Rpt_CustomerStatisticsDetail" DbName="CRM"  />
+  <Setting Key="dailylicenseesummaryreport" SpName="Acc_CRM_Rpt_LicenseeStatistics" DbName="CRM"  />
+  <Setting Key="dailylicenseedetailreport" SpName="Acc_CRM_Rpt_LicenseeStatisticsDetail" DbName="CRM"  />
+  <Setting Key="casinodailysummary" SpName="Acc_CRM_Rpt_CasinoStatistics" DbName="CRM"  />
+  <Setting Key="casinodailydetail" SpName="Acc_CRM_Rpt_CasinoStatisticsDetail" DbName="CRM"  />
+</Function>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Functions>
+    <Function Name="Live Casino - GET PT Setting">
+        <Setting Key="Acc_CustomerSelInfoLiveCS" SpName="Acc_CustomerSelInfoLiveCS" DbName="db053"/>
+        <Setting Key="Acc_CustomerSelEditSuperLiveCS" SpName="Acc_CustomerSelEditSuperLiveCS" DbName="db053"  />
+        <Setting Key="Acc_CustomerSelEditMasterLiveCS" SpName="Acc_CustomerSelEditMasterLiveCS" DbName="db053"  />
+        <Setting Key="Acc_CustomerSelEditAgentLiveCS" SpName="Acc_CustomerSelEditAgentLiveCS" DbName="db053"  />
+        <Setting Key="Acc_CustomerSelEditMemberLiveCS" SpName="Acc_CustomerSelEditMemberLiveCS" DbName="db053"  />
+        <Setting Key="Acc_CustomerSelSEditCustomerLiveCS" SpName="Acc_CustomerSelSEditCustomerLiveCS" DbName="db053"  />
+        <Setting Key="Acc_CustomerSelMEditCustomerLiveCS" SpName="Acc_CustomerSelMEditCustomerLiveCS" DbName="db053"  />
+    </Function>
+    <Function Name="Live Casino - update PT Setting">
+        <Setting Key="Acc_CustomerUpdSuperLiveCS_All" SpName="Acc_CustomerUpdSuperLiveCS_All" DbName="dbtrans"  />
+        <Setting Key="Acc_CustomerUpdMasterLiveCS_All" SpName="Acc_CustomerUpdMasterLiveCS_All" DbName="dbtrans"  />
+        <Setting Key="Acc_CustomerUpdAgentLiveCS_All" SpName="Acc_CustomerUpdAgentLiveCS_All" DbName="dbtrans"  />
+        <Setting Key="Acc_CustomerUpdMemberLiveCS_All" SpName="Acc_CustomerUpdMemberLiveCS_All" DbName="dbtrans"  />
+        <Setting Key="Acc_CustomerUpdMemberLiveCS_Master" SpName="Acc_CustomerUpdMemberLiveCS_Master" DbName="dbtrans"  />
+    </Function>
+    <Function Name="Live Casino - Stake Level Settingc">
+        <Setting Key="TP_Admin_StakeLevel_GetGameTypeStakeLevel" SpName="TP_Admin_StakeLevel_GetGameTypeStakeLevel" DbName="LiveCasinoAdmin" Plain="1" />
+        <Setting Key="TP_Admin_StakeLevel_GetCustStakeLevelMulti" SpName="TP_Admin_StakeLevel_GetCustStakeLevelMulti" DbName="LiveCasinoAdmin"  />
+        <Setting Key="TP_User_CustGameType_UpdStakeLevel" SpName="TP_User_CustGameType_UpdStakeLevel" DbName="LiveCasinoAdmin"  />
+        <Setting Key="TP_User_Customer_AutoInsertAccount" SpName="TP_User_Customer_AutoInsertAccount" DbName="LiveCasinoAdmin"  />
+    </Function>
+
+</Functions>

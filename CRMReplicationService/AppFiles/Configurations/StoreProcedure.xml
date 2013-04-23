@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Functions>
+  <Function Name="Customer">
+    <Setting Key="SelCustomersByTimesTamp" SpName="Acc_CRM_GuestSelByTimestamp" DbName="CRM"  />
+  </Function>
+</Functions>
